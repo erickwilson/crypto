@@ -1,4 +1,5 @@
-![printCrypto3](https://user-images.githubusercontent.com/37297378/162103769-40d91d8f-c305-4ec2-a79b-396bf8543bfc.png)
+![printCrypto3](https://user-images.githubusercontent.com/37297378/163691464-c36b1906-d771-43b0-8684-eecea306e7b9.png)
+
 
 # Crypto
 Aprendendo a consumir uma API.
