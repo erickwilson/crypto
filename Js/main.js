@@ -19,7 +19,7 @@ function show(cryptos) {
 
         output += `<div id="contador">${contador} - ${crypto.id} - ${crypto.name}</li>`
         output += `<br>`
-        output += `<label>Price: $ ${crypto.price}</label>`
+        output += `<label>Price: $ ${parseFloat(crypto.price).toFixed(2)}</label>`
         output += `</div>`
         output += `<br>`
         contador++;
